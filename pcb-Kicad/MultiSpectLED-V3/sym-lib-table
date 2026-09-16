@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MultiSpectLED")(type "Legacy")(uri "${KIPRJMOD}/MultiSpectLED-V3.lib")(options "")(descr ""))
+  (lib (name "PJ-036AH-SMT-TR")(type "Legacy")(uri "${KIPRJMOD}/PJ-036AH-SMT-TR.lib")(options "")(descr ""))
+  (lib (name "MultiSpectLED-rescue")(type "KiCad")(uri "${KIPRJMOD}/MultiSpectLED-rescue.kicad_sym")(options "")(descr ""))
+)
